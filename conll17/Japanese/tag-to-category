@@ -1,0 +1,14 @@
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++" } 	
+attribute { name: "fPOS" value: "ADJ++" } 	
+attribute { name: "fPOS" value: "ADP++" } 	
+attribute { name: "fPOS" value: "ADV++" } 	
+attribute { name: "fPOS" value: "AUX++" } 	
+attribute { name: "fPOS" value: "CCONJ++" } 	
+attribute { name: "fPOS" value: "NOUN++" } 	
+attribute { name: "fPOS" value: "PART++" } 	
+attribute { name: "fPOS" value: "PRON++" } 	
+attribute { name: "fPOS" value: "PROPN++" } 	
+attribute { name: "fPOS" value: "PUNCT++" } 	
+attribute { name: "fPOS" value: "SCONJ++" } 	
+attribute { name: "fPOS" value: "SYM++" } 	
+attribute { name: "fPOS" value: "VERB++" } 	

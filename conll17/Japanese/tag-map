@@ -1,0 +1,15 @@
+14
+attribute { name: "fPOS" value: "NOUN++" }  42266
+attribute { name: "fPOS" value: "ADP++" }  33947
+attribute { name: "fPOS" value: "AUX++" }  19610
+attribute { name: "fPOS" value: "PUNCT++" }  15849
+attribute { name: "fPOS" value: "VERB++" }  14494
+attribute { name: "fPOS" value: "PROPN++" }  7640
+attribute { name: "fPOS" value: "SCONJ++" }  5829
+attribute { name: "fPOS" value: "ADJ++" }  4316
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++" }  3729
+attribute { name: "fPOS" value: "PART++" }  2022
+attribute { name: "fPOS" value: "ADV++" }  1530
+attribute { name: "fPOS" value: "SYM++" }  1147
+attribute { name: "fPOS" value: "PRON++" }  826
+attribute { name: "fPOS" value: "CCONJ++" }  720

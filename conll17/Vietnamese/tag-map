@@ -1,0 +1,37 @@
+36
+attribute { name: "fPOS" value: "NOUN++N" }  4716
+attribute { name: "fPOS" value: "VERB++V" }  3895
+attribute { name: "fPOS" value: "PUNCT++." }  1187
+attribute { name: "fPOS" value: "X++R" }  1183
+attribute { name: "fPOS" value: "ADP++E" }  1145
+attribute { name: "fPOS" value: "ADJ++A" }  1056
+attribute { name: "fPOS" value: "PROPN++P" }  788
+attribute { name: "fPOS" value: "NOUN++Np" }  771
+attribute { name: "fPOS" value: "PUNCT++," }  760
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++M" }  584
+attribute { name: "fPOS" value: "CCONJ++C" }  505
+attribute { name: "fPOS" value: "NOUN++Nc" }  447
+attribute { name: "fPOS" value: "PUNCT++\"" }  407
+attribute { name: "fPOS" value: "DET++L" }  297
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "X++R" }  239
+attribute { name: "fPOS" value: "SCONJ++CC" }  235
+attribute { name: "fPOS" value: "AUX++V" }  173
+attribute { name: "fPOS" value: "NOUN++Ny" }  160
+attribute { name: "fPOS" value: "PUNCT++:" }  135
+attribute { name: "fPOS" value: "PUNCT++..." }  108
+attribute { name: "fPOS" value: "PART++T" }  107
+attribute { name: "fPOS" value: "PUNCT++?" }  84
+attribute { name: "fPOS" value: "X++X" }  83
+attribute { name: "fPOS" value: "PUNCT++-" }  59
+attribute { name: "fPOS" value: "NOUN++Nu" }  54
+attribute { name: "fPOS" value: "PUNCT++!" }  35
+attribute { name: "fPOS" value: "NOUN++Nb" }  25
+attribute { name: "fPOS" value: "PUNCT++LBKT" }  24
+attribute { name: "fPOS" value: "PUNCT++RBKT" }  24
+attribute { name: "fPOS" value: "X++Z" }  15
+attribute { name: "fPOS" value: "X++Y" }  7
+attribute { name: "fPOS" value: "INTJ++I" }  3
+attribute { name: "fPOS" value: "PUNCT++;" }  2
+attribute { name: "fPOS" value: "PUNCT++NP" }  2
+attribute { name: "fPOS" value: "PUNCT++@" }  1
+attribute { name: "fPOS" value: "VERB++VP" }  1

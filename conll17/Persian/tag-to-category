@@ -1,0 +1,168 @@
+attribute { name: "Case" value: "Loc" } attribute { name: "fPOS" value: "ADV++ADV_LOC" } 	
+attribute { name: "Case" value: "Tem" } attribute { name: "fPOS" value: "ADV++ADV_TIME" } 	
+attribute { name: "Case" value: "Voc" } attribute { name: "fPOS" value: "NOUN++N_VOC" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++ADJ_CMPR" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++ADJ" } 	
+attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++ADJ_SUP" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "VERB++V_IMP" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "fPOS" value: "VERB++V_IMP" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "VERB++V_IMP" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "fPOS" value: "VERB++V_IMP" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "fPOS" value: "AUX++V_SUB" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "fPOS" value: "VERB++V_SUB" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++N_PL" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++ADJ_INO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Fut" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "AUX++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Past" } attribute { name: "fPOS" value: "VERB++V_PA" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++ADJ_INO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V_PP" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++N_SING" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++ADV_NEG" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "ADV++ADV_I" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "PronType" value: "Rcp" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PRO" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "fPOS" value: "ADJ++ADJ" } 	
+attribute { name: "fPOS" value: "ADP++P" } 	
+attribute { name: "fPOS" value: "ADP++PREV" } 	
+attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "fPOS" value: "ADV++ADV_COMP" } 	
+attribute { name: "fPOS" value: "ADV++ADV_I" } 	
+attribute { name: "fPOS" value: "AUX++V_AUX" } 	
+attribute { name: "fPOS" value: "AUX++V_PP" } 	
+attribute { name: "fPOS" value: "AUX++V_PRS" } 	
+attribute { name: "fPOS" value: "CCONJ++CON" } 	
+attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "fPOS" value: "INTJ++INT" } 	
+attribute { name: "fPOS" value: "PART++CLITIC" } 	
+attribute { name: "fPOS" value: "PUNCT++DELM" } 	
+attribute { name: "fPOS" value: "SCONJ++CON" } 	
+attribute { name: "fPOS" value: "SCONJ++CONJ" } 	
+attribute { name: "fPOS" value: "VERB++V_PRS" } 	
+attribute { name: "fPOS" value: "X++FW" } 	

@@ -1,0 +1,22 @@
+21
+attribute { name: "fPOS" value: "NOUN++" }  20852
+attribute { name: "fPOS" value: "PROPN++" }  17343
+attribute { name: "fPOS" value: "PUNCT++" }  13886
+attribute { name: "fPOS" value: "VERB++" }  9265
+attribute { name: "fPOS" value: "ADP++" }  9188
+attribute { name: "fPOS" value: "ADV++" }  3614
+attribute { name: "fPOS" value: "ADJ++" }  3472
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++" }  3389
+attribute { name: "fPOS" value: "PRON++" }  3332
+attribute { name: "fPOS" value: "DET++" }  3037
+attribute { name: "fPOS" value: "CCONJ++" }  2802
+attribute { name: "fPOS" value: "SCONJ++" }  1116
+attribute { name: "fPOS" value: "AUX++" }  812
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "PART++" }  402
+attribute { name: "fPOS" value: "SYM++" }  327
+attribute { name: "fPOS" value: "PART++" }  51
+attribute { name: "fPOS" value: "X++" }  36
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++" }  9
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "PROPN++" }  3
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "NOUN++" }  2
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADJ++" }  1

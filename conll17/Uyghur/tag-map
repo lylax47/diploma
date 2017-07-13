@@ -1,0 +1,13 @@
+12
+attribute { name: "fPOS" value: "NOUN++N" }  525
+attribute { name: "fPOS" value: "VERB++V" }  288
+attribute { name: "fPOS" value: "ADJ++A" }  174
+attribute { name: "fPOS" value: "PUNCT++Y" }  165
+attribute { name: "fPOS" value: "PRON++P" }  136
+attribute { name: "fPOS" value: "AUX++V" }  62
+attribute { name: "fPOS" value: "NUM++M" }  50
+attribute { name: "fPOS" value: "CCONJ++C" }  33
+attribute { name: "fPOS" value: "ADP++R" }  31
+attribute { name: "fPOS" value: "ADV++D" }  27
+attribute { name: "fPOS" value: "PART++T" }  12
+attribute { name: "fPOS" value: "DET++Q" }  8

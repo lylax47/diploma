@@ -1,0 +1,36 @@
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++M" } 	
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "X++R" } 	
+attribute { name: "fPOS" value: "ADJ++A" } 	
+attribute { name: "fPOS" value: "ADP++E" } 	
+attribute { name: "fPOS" value: "AUX++V" } 	
+attribute { name: "fPOS" value: "CCONJ++C" } 	
+attribute { name: "fPOS" value: "DET++L" } 	
+attribute { name: "fPOS" value: "INTJ++I" } 	
+attribute { name: "fPOS" value: "NOUN++N" } 	
+attribute { name: "fPOS" value: "NOUN++Nb" } 	
+attribute { name: "fPOS" value: "NOUN++Nc" } 	
+attribute { name: "fPOS" value: "NOUN++Np" } 	
+attribute { name: "fPOS" value: "NOUN++Nu" } 	
+attribute { name: "fPOS" value: "NOUN++Ny" } 	
+attribute { name: "fPOS" value: "PART++T" } 	
+attribute { name: "fPOS" value: "PROPN++P" } 	
+attribute { name: "fPOS" value: "PUNCT++!" } 	
+attribute { name: "fPOS" value: "PUNCT++," } 	
+attribute { name: "fPOS" value: "PUNCT++-" } 	
+attribute { name: "fPOS" value: "PUNCT++." } 	
+attribute { name: "fPOS" value: "PUNCT++..." } 	
+attribute { name: "fPOS" value: "PUNCT++:" } 	
+attribute { name: "fPOS" value: "PUNCT++;" } 	
+attribute { name: "fPOS" value: "PUNCT++?" } 	
+attribute { name: "fPOS" value: "PUNCT++@" } 	
+attribute { name: "fPOS" value: "PUNCT++LBKT" } 	
+attribute { name: "fPOS" value: "PUNCT++NP" } 	
+attribute { name: "fPOS" value: "PUNCT++RBKT" } 	
+attribute { name: "fPOS" value: "PUNCT++\"" } 	
+attribute { name: "fPOS" value: "SCONJ++CC" } 	
+attribute { name: "fPOS" value: "VERB++V" } 	
+attribute { name: "fPOS" value: "VERB++VP" } 	
+attribute { name: "fPOS" value: "X++R" } 	
+attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "fPOS" value: "X++Y" } 	
+attribute { name: "fPOS" value: "X++Z" } 	

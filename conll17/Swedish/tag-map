@@ -1,0 +1,220 @@
+219
+attribute { name: "fPOS" value: "ADP++PP" }  7085
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|UTR|SIN|IND|NOM" }  4344
+attribute { name: "fPOS" value: "PUNCT++MAD" }  3830
+attribute { name: "fPOS" value: "CCONJ++KN" }  2602
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|PRS|AKT" }  2572
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|UTR|PLU|IND|NOM" }  2418
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|UTR|SIN|DEF|NOM" }  2410
+attribute { name: "fPOS" value: "ADV++AB" }  2324
+attribute { name: "fPOS" value: "PUNCT++MID" }  2264
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "AUX++VB|PRS|AKT" }  2096
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|SIN|IND|NOM" }  1831
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|INF|AKT" }  1593
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR/NEU|PLU|IND/DEF|NOM" }  1253
+attribute { name: "Case" value: "Nom" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++RG|NOM" }  1196
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|SIN|DEF|NOM" }  1065
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR|SIN|IND|NOM" }  989
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|NEU|PLU|IND|NOM" }  950
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND" }  930
+attribute { name: "Case" value: "Nom" } attribute { name: "fPOS" value: "PROPN++PM|NOM" }  896
+attribute { name: "fPOS" value: "SCONJ++SN" }  810
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|UTR|PLU|DEF|NOM" }  727
+attribute { name: "fPOS" value: "PUNCT++PAD" }  683
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++HP|-|-|-" }  680
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|DEF|SUB/OBJ" }  663
+attribute { name: "fPOS" value: "PART++IE" }  659
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADV++AB|POS" }  612
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR/NEU|SIN|DEF|NOM" }  600
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|NEU|SIN|IND|NOM" }  569
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Pass" } attribute { name: "fPOS" value: "VERB++VB|PRS|SFO" }  528
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|DEF" }  506
+attribute { name: "fPOS" value: "ADV++HA" }  442
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++AB" }  433
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|IND" }  428
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB" }  413
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|DEF" }  406
+attribute { name: "VerbForm" value: "Sup" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|SUP|AKT" }  376
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|PRT|AKT" }  358
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|SUB" }  343
+attribute { name: "fPOS" value: "ADV++PL" }  335
+attribute { name: "Abbr" value: "Yes" } attribute { name: "fPOS" value: "ADV++AB|AN" }  330
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM" }  320
+attribute { name: "Case" value: "Nom" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM" }  290
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|NEU|PLU|DEF|NOM" }  277
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "Voice" value: "Pass" } attribute { name: "fPOS" value: "VERB++VB|INF|SFO" }  277
+attribute { name: "Abbr" value: "Yes" } attribute { name: "fPOS" value: "NOUN++NN|AN" }  264
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|UTR|SIN|DEF|GEN" }  260
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRF|UTR|SIN|IND|NOM" }  244
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRF|UTR/NEU|PLU|IND/DEF|NOM" }  237
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADV++AB|KOM" }  215
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "AUX++VB|PRT|AKT" }  202
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|DEF" }  201
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB" }  196
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|SIN/PLU|DEF|OBJ" }  186
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "AUX++VB|INF|AKT" }  186
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|PLU|DEF|SUB" }  183
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++VB|PRS|SFO" }  173
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|SUB/OBJ" }  168
+attribute { name: "fPOS" value: "ADP++PL" }  164
+attribute { name: "Mood" value: "Imp" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|IMP|AKT" }  157
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM" }  145
+attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADV++AB|SUV" }  142
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM" }  140
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++PS|UTR|SIN|DEF" }  135
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRF|NEU|SIN|IND|NOM" }  129
+attribute { name: "VerbForm" value: "Sup" } attribute { name: "Voice" value: "Pass" } attribute { name: "fPOS" value: "VERB++VB|SUP|SFO" }  124
+attribute { name: "Case" value: "Gen" } attribute { name: "fPOS" value: "PROPN++PM|GEN" }  118
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++PS|UTR/NEU|PLU|DEF" }  97
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR/NEU|PLU|IND|NOM" }  95
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|SIN|DEF|GEN" }  94
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN|IND" }  90
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|IND/DEF" }  86
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|DEF|SUB/OBJ" }  85
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|DEF" }  82
+attribute { name: "Case" value: "Nom" } attribute { name: "fPOS" value: "ADJ++RO|NOM" }  80
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|IND|SUB/OBJ" }  80
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|UTR|PLU|DEF|GEN" }  79
+attribute { name: "fPOS" value: "SYM++MID" }  74
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|DEF" }  73
+attribute { name: "Definite" value: "Def" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++PS|UTR/NEU|SIN/PLU|DEF" }  71
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++PS|NEU|SIN|DEF" }  65
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++HP|NEU|SIN|IND" }  64
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|OBJ" }  63
+attribute { name: "Gender" value: "Com" } attribute { name: "fPOS" value: "NOUN++NN|UTR|-|-|SMS" }  63
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|OBJ" }  62
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Pass" } attribute { name: "fPOS" value: "VERB++VB|PRT|SFO" }  62
+attribute { name: "Definite" value: "Ind" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN/PLU|IND" }  59
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRF|UTR/NEU|SIN|DEF|NOM" }  50
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|PLU|DEF|OBJ" }  47
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++RG|UTR|SIN|IND|NOM" }  47
+attribute { name: "VerbForm" value: "Sup" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "AUX++VB|SUP|AKT" }  46
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|IND" }  43
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND" }  42
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|DEF" }  40
+attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "NOUN++NN|NEU|-|-|SMS" }  38
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|NEU|PLU|DEF|GEN" }  33
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|UTR|PLU|IND|GEN" }  32
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|UTR|SIN|IND|GEN" }  32
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|IND|SUB/OBJ" }  32
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "DET++HD|UTR/NEU|PLU|IND" }  32
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADJ++JJ|SUV|UTR/NEU|PLU|DEF|NOM" }  30
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR|SIN|IND/DEF|NOM" }  30
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB/OBJ" }  27
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++RG|NEU|SIN|IND|NOM" }  26
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND" }  26
+attribute { name: "Foreign" value: "Yes" } attribute { name: "fPOS" value: "NOUN++UO" }  26
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Rcp" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|OBJ" }  25
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|MAS|SIN|DEF|NOM" }  25
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|IND" }  25
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|SIN|IND|GEN" }  24
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM" }  21
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|IND|SUB/OBJ" }  21
+attribute { name: "fPOS" value: "PROPN++PM" }  21
+attribute { name: "fPOS" value: "NOUN++NN|-|-|-|-" }  20
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++NN|NEU|PLU|IND|GEN" }  19
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB/OBJ" }  19
+attribute { name: "Abbr" value: "Yes" } attribute { name: "fPOS" value: "NOUN++AB|AN" }  17
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++PC|PRF|UTR|SIN|IND|NOM" }  17
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|IND|SUB/OBJ" }  17
+attribute { name: "fPOS" value: "INTJ++IN" }  17
+attribute { name: "fPOS" value: "NOUN++NN" }  17
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++HP|NEU|SIN|IND" }  16
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "DET++HD|UTR|SIN|IND" }  15
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB/OBJ" }  14
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB/OBJ" }  13
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|NEU|SIN|IND/DEF|NOM" }  12
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB/OBJ" }  10
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++PC|PRF|UTR/NEU|PLU|IND/DEF|NOM" }  9
+attribute { name: "Definite" value: "Def" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "DET++HS|DEF" }  9
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|IND" }  9
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++HP|NEU|SIN|IND" }  9
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++HP|UTR/NEU|PLU|IND" }  9
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++VB|PRT|SFO" }  9
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++VB|INF|SFO" }  9
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|DEF" }  8
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND" }  8
+attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND/DEF" }  8
+attribute { name: "fPOS" value: "ADJ++JJ" }  8
+attribute { name: "Abbr" value: "Yes" } attribute { name: "Mood" value: "Imp" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|AN" }  7
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|SUB/OBJ" }  7
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|DEF" }  7
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|IND|SUB/OBJ" }  7
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++HP|UTR/NEU|PLU|IND" }  7
+attribute { name: "Abbr" value: "Yes" } attribute { name: "fPOS" value: "ADJ++JJ|AN" }  6
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++HP|UTR|SIN|IND" }  6
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++HP|UTR|SIN|IND" }  6
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++RG|SMS" }  6
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++PC|PRF|NEU|SIN|IND|NOM" }  5
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|DEF|SUB/OBJ" }  5
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "DET++HD|NEU|SIN|IND" }  5
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|IND|SUB/OBJ" }  5
+attribute { name: "Degree" value: "Sup" } attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++AB|SUV" }  5
+attribute { name: "Foreign" value: "Yes" } attribute { name: "fPOS" value: "ADJ++UO" }  5
+attribute { name: "fPOS" value: "NOUN++PL" }  5
+attribute { name: "Case" value: "Gen" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR/NEU|PLU|IND/DEF|GEN" }  4
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB/OBJ" }  4
+attribute { name: "Definite" value: "Def" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++PS|UTR/NEU|SIN/PLU|DEF" }  4
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|IND" }  4
+attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Com" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR|-|-|SMS" }  4
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|NEU|SIN|IND/DEF" }  4
+attribute { name: "Mood" value: "Sub" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "AUX++VB|KON|PRT|AKT" }  4
+attribute { name: "VerbForm" value: "Sup" } attribute { name: "fPOS" value: "VERB++VB|SUP|SFO" }  4
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "ADJ++PC|PRF|UTR/NEU|PLU|IND/DEF|GEN" }  3
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|DEF" }  3
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB/OBJ" }  3
+attribute { name: "Gender" value: "Com" } attribute { name: "fPOS" value: "NOUN++NN|UTR|-|-|-" }  3
+attribute { name: "fPOS" value: "SCONJ++HP|-|-|-" }  3
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|MAS|SIN|DEF|GEN" }  2
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|SUV|MAS|SIN|DEF|NOM" }  2
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB" }  2
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++PN|MAS|SIN|DEF|SUB/OBJ" }  2
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB/OBJ" }  2
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN|DEF" }  2
+attribute { name: "Definite" value: "Def" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "DET++PS|UTR/NEU|SIN/PLU|DEF" }  2
+attribute { name: "Definite" value: "Def" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "DET++HS|DEF" }  2
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++HP|UTR|SIN|IND" }  2
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++HD|UTR/NEU|PLU|IND" }  2
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN|IND" }  2
+attribute { name: "Foreign" value: "Yes" } attribute { name: "fPOS" value: "ADP++UO" }  2
+attribute { name: "Mood" value: "Sub" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|KON|PRS|AKT" }  2
+attribute { name: "fPOS" value: "ADV++AB|SMS" }  2
+attribute { name: "fPOS" value: "PROPN++PM|SMS" }  2
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|OBJ" }  1
+attribute { name: "Case" value: "Acc" } attribute { name: "Definite" value: "Def" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|SIN/PLU|DEF|OBJ" }  1
+attribute { name: "Case" value: "Acc" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++UO" }  1
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Ind" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++JJ|POS|UTR|SIN|IND|GEN" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|SUB" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|NOM" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|DEF|SUB" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++UO" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|NOM" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|IND|SUB" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|PLU|IND|NOM" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++RO|MAS|SIN|IND/DEF|NOM" }  1
+attribute { name: "Case" value: "Nom" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++UO" }  1
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++PN|UTR|SIN|DEF|SUB/OBJ" }  1
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|DEF" }  1
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|DEF|SUB/OBJ" }  1
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++PS|UTR/NEU|PLU|DEF" }  1
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|DEF" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++PN|NEU|SIN|IND|SUB/OBJ" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++NN|NEU|SIN|IND" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "PRON++PN|UTR/NEU|PLU|IND|SUB/OBJ" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN|IND" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "PronType" value: "Neg" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN/PLU|IND" }  1
+attribute { name: "Definite" value: "Ind" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|SIN/PLU|IND" }  1
+attribute { name: "Degree" value: "Pos" } attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "ADV++AB|POS" }  1
+attribute { name: "Foreign" value: "Yes" } attribute { name: "fPOS" value: "CCONJ++UO" }  1
+attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DT|UTR|SIN|IND/DEF" }  1
+attribute { name: "Mood" value: "Imp" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Pass" } attribute { name: "fPOS" value: "VERB++VB|IMP|SFO" }  1
+attribute { name: "Mood" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++UO" }  1
+attribute { name: "Mood" value: "Sub" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "Voice" value: "Act" } attribute { name: "fPOS" value: "VERB++VB|KON|PRT|AKT" }  1
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DT|UTR/NEU|PLU|IND/DEF" }  1
+attribute { name: "Polarity" value: "Neg" } attribute { name: "fPOS" value: "CCONJ++KN" }  1
+attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++UO" }  1
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++HP|-|-|-" }  1
+attribute { name: "fPOS" value: "NOUN++NN|SMS" }  1

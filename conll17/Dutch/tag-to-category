@@ -1,0 +1,826 @@
+attribute { name: "AdpType" value: "Circ" } attribute { name: "fPOS" value: "ADP++Prep|comb" } 	
+attribute { name: "AdpType" value: "Post" } attribute { name: "fPOS" value: "ADP++Prep|achter" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "PartType" value: "Inf" } attribute { name: "fPOS" value: "ADP++Prep|voorinf" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++ADP" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Adv_Adv" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Adv_Prep|gew|aanw_voor" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_Adj_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_N_Conj_Art_V" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_N_Prep_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_N_Prep_Pron_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_Num_Art_Adj" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_Num_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Art_V_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Conj_Adv" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Conj_Pron|neven_aanw|neut|zelfst" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Conj_Punc_Conj|neven_schuinstreep_neven" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Misc_Misc|vreemd_vreemd" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_Adj" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N_Int" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N_N_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N_N_N_N_Int" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_N_N_N_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_Prep_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N_Prep_N_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++N_N|eigen|ev|neut_soort|ev|neut" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Adv" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Adv|voor_gew|aanw" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_Adj" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_N_Art_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_N_Prep" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_N_Prep_Art_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Art_V" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N_Adv|voor_soort|ev|neut_pron|aanw" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N_Conj" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N_Prep|voor_soort|ev|neut_voor" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N|voor_soort|ev|dat" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N|voor_soort|ev|neut" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_N|voor_soort|mv|neut" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Pron_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Pron|voor_rec|neut" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep_Punc_N_Conj_N" } 	
+attribute { name: "AdpType" value: "Prep" } attribute { name: "fPOS" value: "ADP++Prep|voor" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++ADP" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++ADP" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_Adv" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_Art_N" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_N_Adv" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_N_Prep" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_N|onder|metfin_soort|ev|neut" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_Pron_V" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADP++Conj_V|onder|metfin_intrans|ott|3|ev" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++ADP" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++Adv_Conj_Adv" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++Adv_Prep_Pron" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++Misc_Misc_Misc_Misc|vreemd_vreemd_vreemd_vreemd" } 	
+attribute { name: "AdpType" value: "Preppron" } attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADP++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "AdvType" value: "Ex" } attribute { name: "fPOS" value: "ADV++Adv|gew|er" } 	
+attribute { name: "AdvType" value: "Ex" } attribute { name: "fPOS" value: "ADV++Adv|pron|er" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Definite" value: "Def" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "X++V_Art_N_Num_N" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Definite" value: "Def" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Definite" value: "Def" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++Pron_N_V_Adv_Num_Punc" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Definite" value: "Def" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++V_Pron_Adv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++N_Adv_Punc_V_Pron_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|refl|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|refl|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ovt|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ott|1of2of3|mv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ott|1|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++N_Punc_Adv_V_Pron_N" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Dem" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++Prep_V_Pron_Pron_Adv" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Dem" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Rel" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++Pron_Pron_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Rel" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++V_Pron_Adv_Adv_Pron_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ott|2|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++Pron_N_V_Conj_N" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Ind" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|refl|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++V_Pron_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ott|3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|refl|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|refl|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|intrans|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++V_N_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|trans|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulp|ovt|1of2of3|ev" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++N_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Dem" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Pron_V_V" } 	
+attribute { name: "Aspect" value: "Imp" } attribute { name: "Mood" value: "Ind" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Dem" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|1|mv|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|2|mv|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|3|mv|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Plur,Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|3|evofmv|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|1|ev|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|2|ev|datofacc" } 	
+attribute { name: "Case" value: "Acc,Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|3|ev|datofacc" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Com" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|bep|zijd|dat" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_Prep_N" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++N|soort|ev|dat" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N|voor_soort|ev|dat" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Pron_N" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Dat" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|dat|attr" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|bep|zijdofonzijd|gen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_N" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Definite" value: "Def" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|bep|zijdofmv|gen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++Adj|attr|vergr|vervgen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj|attr|stell|vervgen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Pron_N|aanw|gen|attr_soort|mv|neut" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_Pron_N" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Pron_V" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|3|ev|gen|attr" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_N" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++N|soort|ev|gen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "PROPN++N|eigen|ev|gen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Art_N" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|gen|attr" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++Pron|onbep|gen|attr" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++Pron|onbep|gen|zelfst" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "PronType" value: "Rcp" } attribute { name: "fPOS" value: "PRON++Pron|rec|gen" } 	
+attribute { name: "Case" value: "Gen" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++Pron|betr|gen|zelfst" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Conj_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "ADJ++Adj|adv|vergr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++Adj|attr|vergr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++Adj|zelfst|vergr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "X++Prep_Adj|voor_adv|vergr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "ADJ++Adj|adv|stell|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj|attr|stell|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj|zelfst|stell|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adj_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adj_Int|attr|stell|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Adj|voor_attr|stell|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Adv" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Art_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "X++Pron_Adj" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Prep_Num" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++Adj|attr|overtr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++Adj|zelfst|overtr|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "X++Prep_Adv" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|1|mv|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|2|mv|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Plur,Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|3|evofmv|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|1|ev|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|2|ev|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|per|3|ev|nom" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++Prep_N_V" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|refl|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|refl|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|verldw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|intrans|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|trans|verldw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|verldw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|tegdw|vervneut" } 	
+attribute { name: "Case" value: "Nom" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|tegdw|vervneut" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Adj" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Adj" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Conj_Art_Adj" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Adj_N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adj_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_Adj_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Adj" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Adv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Degree" value: "Sup" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++Art_N_Conj_Pron_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_N_Conj_Art_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_N_Prep_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_N|bep|onzijd|neut_eigen|ev|neut" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Art_N|bep|onzijd|neut_soort|ev|neut" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|bep|onzijd|neut" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Art_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Prep_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num|hoofd|bep|attr|onverv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num|hoofd|bep|zelfst|onverv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Ord" } attribute { name: "fPOS" value: "ADJ++Num|rang|bep|attr|onverv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "NumType" value: "Ord" } attribute { name: "fPOS" value: "ADJ++Num|rang|bep|zelfst|onverv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num|hoofd|bep|zelfst|vervmv" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Num_N_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Num_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_Num" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Num_N" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|bep|zijdofmv|neut" } 	
+attribute { name: "Definite" value: "Def" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Definite" value: "Ind" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++Art|onbep|zijdofonzijd|neut" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Prep_Art_Adj" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num_Conj_Num" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num|hoofd|onbep|attr|vergr|onverv" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++Prep_Pron_Adj" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Adv_Num" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Prep_Num" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_Adj" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|tegdw|vervvergr" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|verldw|vervvergr" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "ADJ++Adj|adv|vergr|onverv" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Prep|adv|vergr|onverv_voor" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADJ++Adj|attr|vergr|onverv" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "ADV++Adv|gew|geenfunc|vergr|onverv" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "X++Adv_Adj" } 	
+attribute { name: "Degree" value: "Cmp" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Prep_Art_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_Prep_Art_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Imp" } attribute { name: "Variant" value: "Short" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++Adj_V|adv|stell|onverv_trans|imp" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Mood" value: "Imp" } attribute { name: "Variant" value: "Short" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num|hoofd|onbep|attr|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++V_Adv_Art_N_Prep_Pron_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "2" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "ADJ++Adj|zelfst|stell|vervmv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Prep_Adj_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Prep_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "fPOS" value: "X++N_Punc_Adj_Pron_Punc" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++Conj_Pron_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_N_Prep_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_Num" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_N_Conj_Adj_N_Prep_Art_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++Adj_V_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Art" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_Adj_N_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_Art" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Conj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_N_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_N_N_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Prep_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Prep_N_Conj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Prep_N_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adj_N_Punc" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_Art" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_Conj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Adj_Conj_Prep_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_Adj_N" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Adv_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++V_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Adj_V|adv|stell|onverv_intrans|inf" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "ADJ++Adj|adv|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Adv|adv|stell|onverv_deelv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++Adj_Prep|adv|stell|vervneut_voor" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "Variant" value: "Short" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Adj_V_Conj_V" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj|attr|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADJ++Adj|zelfst|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "ADV++Adv|gew|geenfunc|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adj_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adj_Misc_Misc" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Adj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Adj_Conj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Conj" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Conj_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Prep" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Adv_Pron" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Conj_Adj|neven_attr|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Conj_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Conj_Adv_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Adj|voor_attr|stell|onverv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++Prep_Prep_Adv" } 	
+attribute { name: "Degree" value: "Pos" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Degree" value: "Sup" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Degree" value: "Sup" } attribute { name: "Number" value: "Plur" } attribute { name: "NumType" value: "Card" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "DET++Num" } 	
+attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADJ++Adj|attr|overtr|onverv" } 	
+attribute { name: "Degree" value: "Sup" } attribute { name: "fPOS" value: "ADV++Adv|gew|geenfunc|overtr|onverv" } 	
+attribute { name: "Foreign" value: "Yes" } attribute { name: "fPOS" value: "X++Misc|vreemd" } 	
+attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N" } 	
+attribute { name: "Gender" value: "Com" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_N_N" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "Number[psor]" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_N" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_N_N" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_N_N_N_N_N" } 	
+attribute { name: "Gender" value: "Fem" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_Adj_Art_N_N" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N_N" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N|soort|ev|neut_soort|ev|neut" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Art" } attribute { name: "fPOS" value: "DET++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++DET" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++Prep_Adv|voor_gew|aanw" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++Prep_Conj_Prep|voor_neven_voor" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++Prep_N_Adv|voor_soort|mv|neut_deelv" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++Prep_N|voor_soort|ev|neut" } 	
+attribute { name: "Gender" value: "Masc" } attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Tot" } attribute { name: "fPOS" value: "DET++Prep_Prep_Adj|voor_voor_adv|stell|onverv" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Conj_Art_N" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_Art_N_Prep_Art_N" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N_Prep" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Prep_Art_V" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++Prep_Art|voor_bep|onzijd|neut" } 	
+attribute { name: "Gender" value: "Neut" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|imp" } 	
+attribute { name: "Mood" value: "Imp" } attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|imp" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++N_V|soort|ev|neut_hulpofkopp|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++N_V|soort|ev|neut_intrans|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Number" value: "Sing" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|intrans|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "VERB++V|trans|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|conj" } 	
+attribute { name: "Mood" value: "Sub" } attribute { name: "VerbForm" value: "Fin" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++N_N|soort|ev|neut_soort|ev|neut" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Adj" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Conj_Num_N" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N_Num" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_N_Num_Num_N" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Num" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Num_N" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Punc" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Punc_Num" } 	
+attribute { name: "NumForm" value: "Digit" } attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Num_Punc_Num_N_N" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Int_Int" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Misc_Misc|vreemd_vreemd" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++NUM" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++N_N_N_N" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "NumType" value: "Card" } attribute { name: "fPOS" value: "NUM++Pron_Adj_N_Punc_Art_Adj_N_Prep_Art_Adj_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Pron_V" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|1|mv|neut|attr" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++Pron|ref|1|mv" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|3|mv|neut|attr" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_Art_N_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Pron_Prep_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|verldw|vervmv" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|tegdw|vervmv" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|verldw|vervmv" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++Prep_Art_N_V" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "NOUN++N|soort|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "PROPN++N|eigen|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Misc_Misc_N|vreemd_vreemd_soort|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Art_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Conj_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Misc_Misc|soort|mv|neut_vreemd_vreemd" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_N_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_N_N_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_N|soort|ev|neut_soort|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_N|soort|mv|neut_soort|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Prep_Art_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Prep_Art_N_Art_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++N_Prep_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Prep_Art_N" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Prep_N_Prep|voor_soort|mv|neut_voor" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Prep_N|voor_soort|mv|neut" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++Prep_Pron_N_Adv" } 	
+attribute { name: "Number" value: "Plur" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Plur,Sing" } attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++Pron|ref|3|evofmv" } 	
+attribute { name: "Number" value: "Plur,Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++Prep_Pron|voor_ref|3|evofmv" } 	
+attribute { name: "Number" value: "Plur,Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|1|ev|neut|attr" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "1" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++Pron|ref|1|ev" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|2|ev|neut|attr" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "2" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "PRON++Pron|ref|2|ev" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|3|ev|neut|attr" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "Poss" value: "Yes" } attribute { name: "PronType" value: "Prs" } attribute { name: "fPOS" value: "PRON++Pron|bez|3|ev|neut|zelfst" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Person" value: "3" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Prep_N_Adv|voor_soort|ev|neut_pron|aanw" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_Conj_Pron" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_N_Conj" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_N_Prep_Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_N_Prep_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Art_Pron" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_N_Adv" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_N|onbep|neut|attr_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Prep_Art_N_Adv" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Prep_N_Adv|voor_soort|ev|neut_pron|vrag" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Pron_Art" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Pron_Prep_Art" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "X++Pron_Prep_Art" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_Conj_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++V_Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++V_N|trans|imp_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Subcat" value: "Tran" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++N_V" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++Prep_V_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++ADJ" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADJ++N_N|soort|ev|neut_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADV++Int_N_Punc_Int_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADV++N_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "ADV++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "NOUN++N|soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "PROPN++N|eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_Art" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Adv_N|gew|aanw_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_Misc_Misc_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_Misc_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_Misc_Punc_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_N_Misc_Misc" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_N|vreemd_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Misc_N|vreemd_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Adv|soort|ev|neut_deelv" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Conj_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Conj_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Conj|soort|ev|neut_neven" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Misc|soort|ev|neut_vreemd" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_Conj_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_N_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N_Prep_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N|soort|ev|neut_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N|soort|ev|neut_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N|soort|mv|neut_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_N|soort|mv|neut_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_Art_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_N_Prep_N_Conj_N_Prep_Art_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep_N_Punc_N_Conj_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Prep|soort|ev|neut_voor" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Punc_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Punc_N_N_N_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Punc_N_Punc" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++N_Punc_N_Punc_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N_Adv" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art_N_Prep" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_Art|voor_onbep|zijdofonzijd|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N_Adv|voor_soort|ev|neut_deeladv" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N_Conj_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N_Prep_N" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N_Prep|voor_soort|ev|dat_voor" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N_Prep|voor_soort|ev|neut_voor" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N|voor_eigen|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++Prep_N|voor_soort|ev|neut" } 	
+attribute { name: "Number" value: "Sing" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PartType" value: "Vbp" } attribute { name: "fPOS" value: "ADV++Adv|deeladv" } 	
+attribute { name: "PartType" value: "Vbp" } attribute { name: "fPOS" value: "ADV++Adv|deelv" } 	
+attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "X++Pron_Pron" } 	
+attribute { name: "Person" value: "3" } attribute { name: "PronType" value: "Prs" } attribute { name: "Reflex" value: "Yes" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "ADV++Adv|gew|aanw" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "ADV++Adv|pron|aanw" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|neut|attr" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|neut|attr|weigen" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|neut|attr|wzelf" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "PRON++Pron|aanw|neut|zelfst" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Adv_Adv_Conj_Adv" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Adv_Conj_Adv|gew|aanw_neven_gew|aanw" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Conj_Adv|neven_gew|aanw" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++Prep_Adv|voor_gew|aanw" } 	
+attribute { name: "PronType" value: "Dem" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "ADV++Adv|gew|onbep" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "ADV++Adv|pron|onbep" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++Pron|onbep|neut|attr" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "PRON++Pron|onbep|neut|zelfst" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Adv_Conj_Adv|gew|onbep_neven_gew|onbep" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++Pron_Prep|onbep|neut|zelfst_voor" } 	
+attribute { name: "PronType" value: "Ind" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "ADV++Adv|gew|vrag" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "ADV++Adv|pron|vrag" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++Pron|vrag|neut|attr" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "PRON++Pron|vrag|neut|zelfst" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Prep_Adv|voor_pron|vrag" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Pron_Adv|vrag|neut|attr_deelv" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++Pron_Prep|vrag|neut|attr_voor" } 	
+attribute { name: "PronType" value: "Int" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PronType" value: "Rcp" } attribute { name: "fPOS" value: "PRON++Pron|rec|neut" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "ADV++Adv|gew|betr" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "ADV++Adv|pron|betr" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++Pron|betr|neut|attr" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "PRON++Pron|betr|neut|zelfst" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "X++Pron_Prep|betr|neut|zelfst_voor" } 	
+attribute { name: "PronType" value: "Rel" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "PunctSide" value: "Fin" } attribute { name: "PunctType" value: "Brck" } attribute { name: "fPOS" value: "PUNCT++Punc|haaksluit" } 	
+attribute { name: "PunctSide" value: "Ini" } attribute { name: "PunctType" value: "Brck" } attribute { name: "fPOS" value: "PUNCT++Punc|haakopen" } 	
+attribute { name: "PunctType" value: "Colo" } attribute { name: "fPOS" value: "PUNCT++Punc|dubbpunt" } 	
+attribute { name: "PunctType" value: "Comm" } attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "PunctType" value: "Comm" } attribute { name: "fPOS" value: "ADV++Int_Punc_Int|komma" } 	
+attribute { name: "PunctType" value: "Comm" } attribute { name: "fPOS" value: "PUNCT++Punc|komma" } 	
+attribute { name: "PunctType" value: "Excl" } attribute { name: "fPOS" value: "PUNCT++Punc|uitroep" } 	
+attribute { name: "PunctType" value: "Peri" } attribute { name: "fPOS" value: "PUNCT++Punc|hellip" } 	
+attribute { name: "PunctType" value: "Peri" } attribute { name: "fPOS" value: "PUNCT++Punc|punt" } 	
+attribute { name: "PunctType" value: "Qest" } attribute { name: "fPOS" value: "PUNCT++Punc|vraag" } 	
+attribute { name: "PunctType" value: "Quot" } attribute { name: "fPOS" value: "PUNCT++Punc|aanhaaldubb" } 	
+attribute { name: "PunctType" value: "Quot" } attribute { name: "fPOS" value: "PUNCT++Punc|aanhaalenk" } 	
+attribute { name: "PunctType" value: "Semi" } attribute { name: "fPOS" value: "PUNCT++Punc|puntkomma" } 	
+attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|refl|verldw|onverv" } 	
+attribute { name: "Reflex" value: "Yes" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|refl|verldw|onverv" } 	
+attribute { name: "Reflex" value: "Yes" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|refl|inf" } 	
+attribute { name: "Reflex" value: "Yes" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|refl|inf" } 	
+attribute { name: "Reflex" value: "Yes" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|refl|inf|subst" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|intrans|verldw|onverv" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|verldw|onverv" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_Prep|intrans|verldw|onverv_voor" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|intrans|tegdw|onverv" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|intrans|tegdw|onverv" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|intrans|inf" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|intrans|inf|subst" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|intrans|inf" } 	
+attribute { name: "Subcat" value: "Intr" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|intrans|inf|subst" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|trans|verldw|onverv" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "PUNCT++V|trans|verldw|onverv" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|verldw|onverv" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++V_Conj_Pron" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "Tense" value: "Pres" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "VERB++V|trans|tegdw|onverv" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|trans|inf" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|trans|inf|subst" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|trans|inf" } 	
+attribute { name: "Subcat" value: "Tran" } attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "VERB++V|trans|inf|subst" } 	
+attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|verldw|onverv" } 	
+attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|verldw|onverv" } 	
+attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|verldw|onverv" } 	
+attribute { name: "Tense" value: "Past" } attribute { name: "VerbForm" value: "Part" } attribute { name: "fPOS" value: "AUX++V|hulp|verldw|onverv" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "VERB++V|hulp|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "X++V_V|hulp|imp_intrans|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "VerbType" value: "Mod" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|hulpofkopp|inf|subst" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "AUX++V|hulp|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Prep_V|voor_intrans|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++Prep_V|voorinf_trans|inf" } 	
+attribute { name: "VerbForm" value: "Inf" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "X++V_Pron" } 	
+attribute { name: "VerbType" value: "Aux,Cop" } attribute { name: "fPOS" value: "X++X" } 	
+attribute { name: "fPOS" value: "ADJ++ADJ" } 	
+attribute { name: "fPOS" value: "ADJ++Num_Adj" } 	
+attribute { name: "fPOS" value: "ADJ++Num_Adj_Adj_N" } 	
+attribute { name: "fPOS" value: "ADJ++Num_Adj_N" } 	
+attribute { name: "fPOS" value: "ADJ++Num_N" } 	
+attribute { name: "fPOS" value: "ADV++ADV" } 	
+attribute { name: "fPOS" value: "ADV++Int_Int" } 	
+attribute { name: "fPOS" value: "CCONJ++CCONJ" } 	
+attribute { name: "fPOS" value: "CCONJ++Conj|neven" } 	
+attribute { name: "fPOS" value: "CCONJ++Int_Adv|gew|aanw" } 	
+attribute { name: "fPOS" value: "CCONJ++Misc_Misc_Misc_Misc_Misc_Misc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "CCONJ++Misc_Misc_Misc_Misc_Misc_N_Misc_Misc_Misc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "INTJ++Int" } 	
+attribute { name: "fPOS" value: "PROPN++Int_N_N_Misc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Adj" } 	
+attribute { name: "fPOS" value: "PROPN++N_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Adv" } 	
+attribute { name: "fPOS" value: "PROPN++N_Art_Adj_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Conj_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Conj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Conj_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Int_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_Misc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_Misc|eigen|ev|neut_vreemd_vreemd" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc_Num" } 	
+attribute { name: "fPOS" value: "PROPN++N_Misc|eigen|ev|neut_vreemd" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Adj" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Art_Adv" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Conj" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Conj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Conj_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Conj_N_N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Int_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Misc" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Adv" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Misc" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_Conj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_Misc" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_N_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_N_N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_Punc_N_Punc" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_N_V" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Prep_Art_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Prep_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Punc" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_N_Punc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Num" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Num_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Prep_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Prep_Art_N_Prep_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Prep_N_Prep_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_N_Punc_N_Punc" } 	
+attribute { name: "fPOS" value: "PROPN++N_Num" } 	
+attribute { name: "fPOS" value: "PROPN++N_Num_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Num_N_Num" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|gen_eigen|ev|gen" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|gen_eigen|ev|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|gen_soort|ev|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|gen_soort|mv|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|neut_eigen|ev|gen" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|neut_eigen|ev|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|neut_eigen|mv|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|neut_soort|ev|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|ev|neut_soort|mv|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_N|eigen|mv|neut_eigen|mv|neut" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_N_Art_Adj" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_N_Prep_Art_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Prep_Pron_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Pron" } 	
+attribute { name: "fPOS" value: "PROPN++N_Punc_Adj_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Punc_Misc_Punc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_Punc_Punc_N_N_Punc_Punc_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_V" } 	
+attribute { name: "fPOS" value: "PROPN++N_V_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_V_N_N" } 	
+attribute { name: "fPOS" value: "PROPN++N_V|eigen|ev|neut_trans|imp" } 	
+attribute { name: "fPOS" value: "PROPN++PROPN" } 	
+attribute { name: "fPOS" value: "PUNCT++PUNCT" } 	
+attribute { name: "fPOS" value: "PUNCT++Punc_Int_Punc_N_N_N_Punc_Pron_V_Pron_Adj_V_Punc" } 	
+attribute { name: "fPOS" value: "PUNCT++Punc_N_Punc_N" } 	
+attribute { name: "fPOS" value: "PUNCT++Punc_Num" } 	
+attribute { name: "fPOS" value: "PUNCT++Punc_Num_Num" } 	
+attribute { name: "fPOS" value: "SCONJ++Conj|onder|metfin" } 	
+attribute { name: "fPOS" value: "SCONJ++Conj|onder|metinf" } 	
+attribute { name: "fPOS" value: "SYM++Punc|isgelijk" } 	
+attribute { name: "fPOS" value: "SYM++Punc|liggstreep" } 	
+attribute { name: "fPOS" value: "SYM++Punc|maal" } 	
+attribute { name: "fPOS" value: "X++Adv_Adv|pron|vrag_deeladv" } 	
+attribute { name: "fPOS" value: "X++Adv_Prep|gew|aanw_voor" } 	
+attribute { name: "fPOS" value: "X++Conj_Conj|neven_onder|metfin" } 	
+attribute { name: "fPOS" value: "X++Conj_Int|neven" } 	
+attribute { name: "fPOS" value: "X++Conj_Int|onder|metfin" } 	
+attribute { name: "fPOS" value: "X++Int_Int" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc_Misc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc_Misc_Misc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc_Misc_Misc_Misc_Misc_Punc_Misc_Misc_Misc" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc_Misc_Misc|vreemd_vreemd_vreemd_vreemd" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc_Misc|vreemd_vreemd_vreemd" } 	
+attribute { name: "fPOS" value: "X++Misc_Misc|vreemd_vreemd" } 	
+attribute { name: "fPOS" value: "X++Prep_Art_Misc_Misc" } 	
+attribute { name: "fPOS" value: "X++Prep_Misc|voor_vreemd" } 	
+attribute { name: "fPOS" value: "X++Prep_Pron|voor_aanw|neut|zelfst" } 	
+attribute { name: "fPOS" value: "X++Prep_Pron|voor_onbep|neut|attr" } 	
+attribute { name: "fPOS" value: "X++Prep_Pron|voor_onbep|neut|zelfst" } 	
+attribute { name: "fPOS" value: "X++Prep_Pron|voor_rec|neut" } 	
+attribute { name: "fPOS" value: "X++X" } 	

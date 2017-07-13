@@ -1,0 +1,12 @@
+attribute { name: "fPOS" value: "ADJ++A" } 	
+attribute { name: "fPOS" value: "ADP++R" } 	
+attribute { name: "fPOS" value: "ADV++D" } 	
+attribute { name: "fPOS" value: "AUX++V" } 	
+attribute { name: "fPOS" value: "CCONJ++C" } 	
+attribute { name: "fPOS" value: "DET++Q" } 	
+attribute { name: "fPOS" value: "NOUN++N" } 	
+attribute { name: "fPOS" value: "NUM++M" } 	
+attribute { name: "fPOS" value: "PART++T" } 	
+attribute { name: "fPOS" value: "PRON++P" } 	
+attribute { name: "fPOS" value: "PUNCT++Y" } 	
+attribute { name: "fPOS" value: "VERB++V" } 	
